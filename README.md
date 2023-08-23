@@ -51,3 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 **Crafted with 💙 by Javier Gutiérrez. Seeking frontend wizards? [Let's connect](https://www.linkedin.com/in/franciscoguti/)!**
+
