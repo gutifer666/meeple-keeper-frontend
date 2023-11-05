@@ -2,6 +2,8 @@
 
 An intuitive and responsive frontend application built with React.js, designed to seamlessly interact with the Board Games Management backend. Experience smooth navigation, real-time data updates, and a user-friendly interface for managing your board games collection.
 
+gutifer666@gmail.com
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
